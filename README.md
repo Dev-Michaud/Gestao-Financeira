@@ -82,4 +82,4 @@ O banco persiste entre reinicializações do sistema.
 
 ##Agradecimentos
 
-Desenvolvedor - Luis Michaud
+Desenvolvedor - Luis Michaud.

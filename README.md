@@ -77,7 +77,7 @@ O frontend sobe em `http://localhost:5173`.
 
 Os dados são salvos no arquivo `WebApi/gastos.db` (SQLite).  
 O banco persiste entre reinicializações do sistema.
-
+ 
 ---
 
 ## Agradecimentos

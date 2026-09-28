@@ -1,4 +1,4 @@
-# Controle de Gastos Residenciais
+# Controle de Gastos Residenciais - Trabalho Academico
 
 Sistema separado em **WebAPI** (ASP.NET Core + SQLite) e **Frontend** (React + TypeScript).
 

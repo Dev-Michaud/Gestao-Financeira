@@ -80,6 +80,13 @@ O banco persiste entre reinicializações do sistema.
  
 ---
 
+## Tecnologias
+
+- **Back-end:** ASP.NET Core 8, Entity Framework Core, SQLite
+- **Front-end:** React, TypeScript, Vite
+  
+---
+
 ## Agradecimentos
 
 Desenvolvedor - Luis Michaud, Ronald Carvalho.

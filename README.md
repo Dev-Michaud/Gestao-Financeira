@@ -4,7 +4,7 @@ Sistema separado em **WebAPI** (ASP.NET Core + SQLite) e **Frontend** (React + T
 
 ---
 
-## Estrutura
+## Estrutura 
 
 ```
 gastos/

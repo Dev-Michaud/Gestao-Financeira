@@ -80,6 +80,14 @@ O banco persiste entre reinicializações do sistema.
  
 ---
 
+## Funcionalidades
+
+- Cadastro de pessoas e categorias
+- Registro de transações (receitas e despesas)
+- Relatórios de gastos
+
+---
+
 ## Tecnologias
 
 - **Back-end:** ASP.NET Core 8, Entity Framework Core, SQLite
